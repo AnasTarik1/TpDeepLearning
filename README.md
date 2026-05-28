@@ -31,6 +31,8 @@ Le TP3 porte sur le traitement automatique du langage naturel avec deux approche
 - NumPy
 - Matplotlib
 
+Si l’aperçu d’un fichier ne s’affiche pas directement sur GitHub, veuillez télécharger le repository avec le bouton Code > Download ZIP.
+
 ## Auteur
 
 Anas TARIK
